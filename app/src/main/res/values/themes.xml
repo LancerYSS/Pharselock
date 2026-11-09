@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.PhraseLock" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/seed_indigo</item>
+        <item name="android:navigationBarColor">@color/seed_indigo</item>
+    </style>
+</resources>
